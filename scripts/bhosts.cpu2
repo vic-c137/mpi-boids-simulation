@@ -1,0 +1,7 @@
+#Note:  processor count set to 2 since the pseudo-processors
+#       from hyperthreading actually slow down processing
+cscd-beo1 cpu=2
+cscd-beo2 cpu=2
+cscd-beo3 cpu=2
+cscd-beo4 cpu=2
+cscd-beo5 cpu=2
