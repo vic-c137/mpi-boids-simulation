@@ -50,21 +50,21 @@ in series
 Analysis
 
 a) Timing analysis was conducted under four varying parameters:
-1) # boids
-2) # loops
-3) # processes
+1) Number of boids (# boids)
+2) Number of loops (# loops)
+3) Number of remote client processes(# processes)
 4) Knn
 
 b) Sensitivity analysis was conducted under nine varying parameters:
-1) acc
+1) Acceleration (acc)
 2) Knn
-3) # loops
-4) maxv
+3) Number of loops (# loops)
+4) Maximum velocity (maxv)
 5) min
 6) # boids
-7) sf1
-8) sf2
-9) sf3
+7) Cohesion factor (sf1)
+8) Repulsion factor (sf2)
+9) Alignment factor (sf3)
 
 Visualization
 
