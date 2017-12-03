@@ -1,4 +1,4 @@
-# mpi-boids-simulation
+# Swarm Intelligence Simulation
 Multi-processing swarm intelligence simulation timing and behavior analysis on MPI
 
 Problem statement
