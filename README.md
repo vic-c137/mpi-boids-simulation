@@ -60,8 +60,8 @@ b) Sensitivity analysis was conducted under nine varying parameters:
 2) Knn
 3) Number of loops (# loops)
 4) Maximum velocity (maxv)
-5) min
-6) # boids
+5) Repulsion cutoff distance (min)
+6) Number of boids 
 7) Cohesion factor (sf1)
 8) Repulsion factor (sf2)
 9) Alignment factor (sf3)
